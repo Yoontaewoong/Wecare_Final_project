@@ -3,17 +3,6 @@
 -----------------------
 
 #### WeCare 치매노인 종합 케어 서비스
-
-
-
-* 서비스
-
-  - 폭행 감지시 카카오톡 알림
-
-  - 침대 점유율 측정 및 기록
-
-  - 병실별 소란 그래프 재공, 입소자별 침대 점유율 그래프 재공
-
 ---------------------------------
 
 ### WeCare_AI
@@ -39,7 +28,7 @@ pip install imageai --upgrade
 conda install tqdm  
 conda install -c anaconda scikit-image  
 
-<br>
+
 ### Datasets
 * raw.zip : https://drive.google.com/file/d/1b3P8D5obY8ETsCaOaKL5lktYr4gMtLVz/view/
 * cam1, cam2 : https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/tree/master/violence-detection-dataset/non-violent/cam1/
@@ -54,7 +43,14 @@ conda install -c anaconda scikit-image
 ![146676175-69f6e98a-ad4f-409b-b08d-fa0551939728](https://user-images.githubusercontent.com/86470595/161745017-765d084e-51e9-4a28-8ec6-783dc698a3df.gif)
 ![146676025-cc017a1d-7021-45d2-bf39-f117283e0117](https://user-images.githubusercontent.com/86470595/161745033-d8fe3eba-7bcb-4f04-9f81-447e7fb3135f.gif)
 
+------------------------------------------------
+* 전체 서비스
 
+  - 폭행 감지시 카카오톡 알림
+
+  - 침대 점유율 측정 및 기록
+
+  - 병실별 소란 그래프 재공, 입소자별 침대 점유율 그래프 재공
 
 ------------------------------
 ![w1](https://user-images.githubusercontent.com/86470595/161679241-143c4d5d-b094-4297-bf76-be3dc615c599.png)
